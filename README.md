@@ -99,7 +99,7 @@ end)
 
 # Lockpick
 - Difficulty
-  - Sets the skillcheck difficulty (see [docs(https://overextended.dev/docs/ox_lib/Interface/Client/skillcheck)).
+  - Sets the skillcheck difficulty (see [docs](https://overextended.dev/docs/ox_lib/Interface/Client/skillcheck)).
 - Area Size
   - Custom difficulty area size.
 - Speed multiplier
