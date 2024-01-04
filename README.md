@@ -105,3 +105,6 @@ end)
   - Custom difficulty area size.
 - Speed multiplier
   - Custom difficulty idicator speed.
+
+# Previews 
+Coming soon
