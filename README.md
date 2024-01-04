@@ -31,7 +31,7 @@ Success is not guaranteed if using a fork on nui_doorlock, like the qb version.
 
 #Client API
 - Use the closest door. Still performs server-side checks, so may fail.
-```
+```lua
 exports.ox_doorlock:useClosestDoor()
 ```
 
