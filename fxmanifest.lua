@@ -8,7 +8,7 @@ game         'gta5'
 name         'ox_doorlock'
 version      '1.14.4'
 license      'GPL-3.0-or-later'
-author       'Overextended'
+author       'Overextended & Otaizen'
 repository   'https://github.com/overextended/ox_doorlock'
 
 --[[ Manifest ]]--
