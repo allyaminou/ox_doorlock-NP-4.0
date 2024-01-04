@@ -1,5 +1,5 @@
 # ox_doorlock
-[Documentation](https://overextended.dev/docs/ox_target/)
+[Documentation](https://overextended.dev/ox_doorlock)
 
 Door management resource, with compatibility for ox_core, qb-core, and es_extended.
 Successor to nui_doorlock with less scuff and more stuff.
