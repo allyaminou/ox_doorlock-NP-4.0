@@ -111,5 +111,5 @@ end)
 - Locked Door
 ![image](https://i.imgur.com/EeUysJT.png)
 
--Unlocked Door
+- Unlocked Door
 ![image](https://i.imgur.com/6ScJurY.png)
