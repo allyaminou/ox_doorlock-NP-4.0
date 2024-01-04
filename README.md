@@ -107,4 +107,9 @@ end)
   - Custom difficulty idicator speed.
 
 # Previews 
-Coming soon
+
+- Locked Door
+![image](https://i.imgur.com/EeUysJT.png)
+
+-Unlocked Door
+![image](https://i.imgur.com/6ScJurY.png)
