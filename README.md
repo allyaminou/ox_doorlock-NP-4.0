@@ -36,22 +36,22 @@ exports.ox_doorlock:useClosestDoor()
 ```
 
 - Pick the lock of the closest door. Still performs server-side checks, so may fail.
-```
+```lua
 exports.ox_doorlock:pickClosestDoor()
 ```
 
 # Server API
 - Get data for door
-```
+```lua
 local mrpd_locker_rooms = exports.ox_doorlock:getDoor(1)
 local mrpd_locker_rooms = exports.ox_doorlock:getDoorFromName('mrpd locker rooms')
 ```
 - Set door state (0: unlocked, 1: locked)
-```
+```lua
 TriggerEvent('ox_doorlock:setState', mrpd_locker_rooms.id, state)
 ```
 - Listen for event when door is toggled
-```
+```lua
 AddEventHandler('ox_doorlock:stateChanged', function(source, doorId, state, usedItem)
     if usedItem == 'trainticket' then
         local xPlayer = ESX.GetPlayerFromId(source)
